@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map SketchUtils
+#######################################
+
+#######################################
+#	Datatypes	(KEYWORD1)
+#######################################
+
+SketchUtils	KEYWORD1
+
+#######################################
+#	Methods	and	Functions	(KEYWORD2)
+####################################### 
+
+blink	KEYWORD2
+hang	KEYWORD2
+setAsInput	KEYWORD2
+setAsOutput	KEYWORD2	
+
+#######################################
+#	Instances	(KEYWORD2)
+#######################################
+
+sketchUtils	KEYWORD2
+
+#######################################
+#	Constants	(LITERAL1)
+#######################################
